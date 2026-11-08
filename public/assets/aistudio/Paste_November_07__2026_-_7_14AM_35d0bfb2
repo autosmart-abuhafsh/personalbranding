@@ -1,0 +1,1100 @@
+# PRODUCT REQUIREMENTS DOCUMENT (PRD)
+# PERSONAL PORTFOLIO WEBSITE — ABU HAFSH MUHAMMAD
+
+**Project Name:** Abu Hafsh Muhammad — Personal Digital Experience  
+**Brand Identity:** Abu Hafsh Muhammad | Autosmart Digital Solutions  
+**Tagline:** Building Digital Experiences, Smart Systems & Meaningful Solutions  
+**Platform:** Premium Interactive Personal Portfolio Website  
+**Development Tool:** Google AI Studio  
+**Primary Deployment:** Vercel  
+**Language:** Bahasa Indonesia (primary), with optional English support  
+**Design Direction:** Premium Futuristic, Minimalist, Interactive 3D, Editorial & Cinematic
+
+---
+
+# 1. PROJECT OVERVIEW
+
+## 1.1 Latar Belakang
+
+Website ini merupakan personal portfolio profesional milik Abu Hafsh Muhammad yang berfungsi sebagai pusat identitas digital, personal branding, dokumentasi karya, pengalaman, keahlian, serta layanan profesional.
+
+Website tidak boleh terlihat seperti template portofolio biasa, CV online standar, atau website company profile generik.
+
+Website harus memberikan pengalaman digital yang berkesan sejak pengunjung pertama kali membuka halaman.
+
+Konsep utamanya adalah memperlihatkan sosok Abu Hafsh Muhammad sebagai individu yang menggabungkan:
+
+- Digital Solutions & Web Development.
+- Business Applications & Automation.
+- Digital Business & Technology.
+- Data Management & Financial Solutions.
+- AI Integration & Digital Innovation.
+- Digital Learning & Education.
+
+Website harus mampu membangun kepercayaan calon klien, perusahaan, organisasi, institusi pendidikan, dan calon mitra kolaborasi.
+
+## 1.2 Tujuan Utama
+
+1. Membangun personal branding profesional Abu Hafsh Muhammad.
+2. Menampilkan hasil karya dan proyek digital secara menarik.
+3. Memperkenalkan Autosmart Digital Solutions sebagai bisnis yang didirikan dan dikembangkan.
+4. Menampilkan layanan pengembangan website, aplikasi bisnis, dashboard, dan sistem otomasi.
+5. Menampilkan pengalaman dalam bidang teknologi dan pembelajaran digital.
+6. Mempermudah calon klien menghubungi dan bekerja sama.
+7. Menjadi pusat portofolio digital yang mudah dikembangkan untuk jangka panjang.
+
+## 1.3 Referensi Profil
+
+Gunakan website berikut sebagai referensi utama identitas, informasi, dan materi portofolio:
+
+https://portofolioabuhafsh.vercel.app/
+
+Instruksi untuk AI:
+
+- Periksa konten website referensi apabila akses browsing tersedia.
+- Gunakan informasi yang relevan untuk mengenali identitas, bidang keahlian, deskripsi, dan karya pemilik website.
+- Pertahankan informasi pribadi dan profesional yang benar.
+- Jangan menyalin tampilan website lama secara mentah.
+- Kembangkan pengalaman visual yang jauh lebih modern, premium, unik, dan interaktif.
+- Jangan mengarang pengalaman, sertifikasi, gelar, jumlah klien, statistik, testimoni, atau pencapaian.
+- Apabila suatu informasi belum tersedia, gunakan placeholder yang mudah diedit.
+- Jadikan profil yang telah diberikan sebagai sumber konten tambahan.
+
+---
+
+# 2. PERSONAL BRAND IDENTITY
+
+## 2.1 Identitas Pemilik
+
+**Nama:** Abu Hafsh Muhammad
+
+**Identitas Profesional:**
+- Founder / Owner — Autosmart Digital Solutions.
+- Digital Solutions Developer.
+- Website & Web Application Developer.
+- Business Automation Enthusiast.
+- Digital Technology Practitioner.
+- Digital Learning Instructor.
+
+**Brand / Business:**
+Autosmart Digital Solutions
+
+**Brand Positioning:**
+Digital Learning & Business Solution.
+
+**Brand Philosophy:**
+Menghadirkan solusi digital yang profesional, fungsional, mudah digunakan, dan memberikan manfaat nyata bagi bisnis, organisasi, serta dunia pendidikan.
+
+## 2.2 Personal Positioning
+
+Posisikan Abu Hafsh Muhammad sebagai:
+
+"Digital Solutions Builder yang berfokus pada pengembangan website, aplikasi bisnis, dashboard manajemen, dan otomasi digital untuk membantu bisnis serta organisasi berkembang melalui teknologi."
+
+Jangan menggunakan positioning yang terlalu berlebihan seperti mengklaim diri sebagai pakar internasional atau senior engineer tanpa bukti.
+
+## 2.3 Hero Content
+
+Headline utama:
+
+"Building Digital Experiences That Move Businesses Forward."
+
+Alternatif headline Bahasa Indonesia:
+
+"Membangun Pengalaman Digital dan Sistem Cerdas untuk Masa Depan."
+
+Subheadline:
+
+"Saya Abu Hafsh Muhammad, founder Autosmart Digital Solutions. Saya mengembangkan website profesional, aplikasi bisnis, dashboard manajemen, dan sistem otomasi digital untuk membantu bisnis serta organisasi bekerja lebih efektif."
+
+CTA utama:
+- Explore My Works
+- Let's Collaborate
+
+CTA sekunder:
+- Discover My Journey
+- Contact Me
+
+Tambahkan identitas kecil:
+
+FOUNDER OF AUTOSMART DIGITAL SOLUTIONS
+
+---
+
+# 3. CREATIVE DIRECTION & VISUAL DESIGN
+
+## 3.1 Design Concept
+
+Buat desain dengan konsep:
+
+**"THE DIGITAL COMMAND CENTER — A PERSONAL DIGITAL UNIVERSE."**
+
+Website harus terasa seperti gabungan antara personal branding kelas premium, studio teknologi modern, dan digital experience interaktif.
+
+Karakter visual:
+- Futuristic.
+- Sophisticated.
+- Minimalist.
+- Cinematic.
+- Elegant.
+- Premium.
+- Immersive.
+- Responsive.
+- Detail-oriented.
+
+Hindari:
+- Desain portofolio yang terlalu umum.
+- Terlalu banyak warna.
+- Tampilan dashboard yang monoton.
+- Efek neon berlebihan.
+- Animasi yang mengganggu keterbacaan.
+- Terlalu banyak elemen dekoratif tanpa fungsi.
+
+## 3.2 Color Palette
+
+Gunakan identitas warna yang konsisten dengan personal branding Autosmart.
+
+| Elemen | Warna | Hex |
+|---|---|---|
+| Primary Background | Deep Navy | #0A1020 |
+| Secondary Background | Midnight Blue | #111A2E |
+| Brand Accent | Elegant Maroon | #78263F |
+| Deep Maroon | Dark Burgundy | #471728 |
+| Premium Accent | Champagne Gold | #D5B47A |
+| Main Text | Soft White | #F4F4F5 |
+| Secondary Text | Muted Gray | #A5ADBD |
+| Glass Surface | Translucent Navy | rgba(255,255,255,0.06) |
+
+Gunakan warna emas sebagai aksen yang terbatas, bukan warna dominan.
+
+## 3.3 Typography
+
+Gunakan perpaduan font modern dan profesional:
+
+- Heading: Space Grotesk atau Sora.
+- Body: Inter.
+- Accent / Editorial: DM Sans.
+
+Judul harus memiliki karakter yang kuat, bersih, dan mudah dibaca.
+
+Gunakan ukuran typography yang memiliki hierarki jelas.
+
+## 3.4 Visual Effects
+
+Gunakan efek visual premium:
+
+1. Animated gradient background.
+2. Subtle particles.
+3. 3D floating digital elements.
+4. Glassmorphism cards.
+5. Magnetic buttons.
+6. Smooth scrolling.
+7. Scroll-triggered animations.
+8. Animated grid lines.
+9. Interactive hover states.
+10. Cinematic page transitions.
+11. Soft lighting and glow.
+12. Depth and parallax effects.
+
+Semua efek harus memiliki tujuan visual dan tidak mengurangi performa.
+
+---
+
+# 4. WEBSITE INFORMATION ARCHITECTURE
+
+Website menggunakan pendekatan single-page scrolling experience dengan navigasi antarbagian yang halus.
+
+Sediakan struktur utama:
+
+1. Home / Hero.
+2. About Me.
+3. Expertise.
+4. Services.
+5. Technology Stack.
+6. Selected Works.
+7. Experience & Journey.
+8. My Workflow.
+9. Contact.
+10. Footer.
+
+Navigasi harus sticky, responsif, dan mudah digunakan.
+
+Tambahkan logo atau monogram personal "AH" yang dirancang secara eksklusif.
+
+Logo harus konsisten pada:
+- Navbar.
+- Favicon.
+- Browser tab.
+- Loading screen.
+- Footer.
+
+---
+
+# 5. DETAILED FEATURES & PAGE REQUIREMENTS
+
+## 5.1 HERO SECTION — FIRST IMPRESSION
+
+Bagian pertama harus menjadi elemen visual paling kuat.
+
+Layout:
+
+- Logo monogram AH.
+- Navigation bar minimalis.
+- Headline besar.
+- Deskripsi profesional.
+- CTA utama dan sekunder.
+- Social media links.
+- Personal image / portrait.
+- Interactive 3D visual element.
+
+Visual utama:
+
+Buat komposisi 3D abstrak berbentuk digital sphere, floating glass panels, atau futuristic digital structure.
+
+Di sekitar objek tersebut terdapat elemen kecil yang menggambarkan:
+
+- Websites.
+- Business Apps.
+- Automation.
+- AI Integration.
+- Digital Solutions.
+
+Efek interaksi:
+- Objek 3D bergerak sangat halus mengikuti pointer.
+- Partikel bergerak secara organik.
+- Text entrance animation.
+- CTA memiliki magnetic hover.
+- Scroll memberikan transisi visual menuju bagian berikutnya.
+
+Gunakan foto asli Abu Hafsh Muhammad apabila tersedia.
+
+Jangan menghasilkan foto manusia palsu yang kemudian dianggap sebagai foto pemilik website.
+
+Apabila foto belum tersedia, buat placeholder visual premium yang mudah diganti.
+
+## 5.2 ABOUT ME — THE PERSON BEHIND THE DIGITAL SOLUTIONS
+
+Judul:
+
+"More Than Technology. Creating Meaningful Solutions."
+
+Deskripsi:
+
+"Perjalanan saya di dunia digital berawal dari ketertarikan untuk memanfaatkan teknologi sebagai solusi nyata. Saya membangun Autosmart Digital Solutions sebagai wadah untuk mengembangkan website, aplikasi bisnis, sistem otomasi, dan berbagai solusi digital yang dapat membantu kebutuhan bisnis serta organisasi."
+
+"Selain mengembangkan solusi digital, saya juga memiliki ketertarikan pada dunia pendidikan dan pembelajaran. Bagi saya, teknologi bukan sekadar tentang membuat sesuatu terlihat modern, tetapi bagaimana teknologi dapat memberikan kemudahan, pengetahuan, dan dampak yang bermanfaat."
+
+Tambahkan elemen:
+
+- Personal profile.
+- Professional identity.
+- Personal philosophy.
+- Founder identity.
+- Interactive timeline.
+- Visual storytelling.
+
+Jangan membuat deskripsi yang terlalu panjang. Gunakan komposisi editorial yang elegan.
+
+## 5.3 EXPERTISE — WHAT I DO
+
+Buat empat kategori keahlian utama.
+
+### A. Web Development & Digital Presence
+
+Deskripsi:
+Membangun website profesional yang menarik, responsif, dan disesuaikan dengan kebutuhan identitas bisnis.
+
+Cakupan:
+- Company Profile Website.
+- Business Website.
+- Landing Page.
+- E-Commerce Website.
+- Travel & Umrah Website.
+- WordPress Development.
+- Website UI/UX.
+
+### B. Business Applications & Automation
+
+Deskripsi:
+Mengembangkan sistem aplikasi berbasis kebutuhan operasional untuk membantu bisnis mengelola aktivitas secara lebih terstruktur.
+
+Cakupan:
+- Business Management System.
+- Admin Dashboard.
+- CRM.
+- HRIS.
+- Inventory Management.
+- Google Apps Script.
+- Google Sheets Integration.
+- Workflow Automation.
+
+### C. Data & Financial Solutions
+
+Deskripsi:
+Membangun alat bantu digital untuk pengelolaan data, administrasi, dan informasi keuangan.
+
+Cakupan:
+- Financial Dashboard.
+- Financial Management.
+- Financial Analysis.
+- Data Management.
+- Business Reporting.
+- Data Visualization.
+
+### D. AI & Digital Innovation
+
+Deskripsi:
+Mengeksplorasi pemanfaatan teknologi AI untuk mendukung produktivitas, pengembangan aplikasi, dan otomatisasi pekerjaan.
+
+Cakupan:
+- Google AI Studio.
+- Gemini AI Integration.
+- AI-Assisted Development.
+- Prompt Engineering.
+- AI Business Workflow.
+- Digital Productivity.
+
+Tambahkan 3D icon atau animated illustration yang unik pada setiap kategori.
+
+## 5.4 SERVICES — HOW I CAN HELP
+
+Buat bagian layanan profesional dengan tampilan premium.
+
+Layanan:
+
+1. Professional Website Development.
+2. Landing Page Development.
+3. WordPress Website Development.
+4. E-Commerce Website.
+5. Custom Business Web Application.
+6. Admin Dashboard Development.
+7. Business Process Automation.
+8. CRM & Management Systems.
+9. Financial Management Dashboard.
+10. Google Sheets & Apps Script Integration.
+11. AI Integration for Business.
+
+Setiap layanan harus memiliki:
+- Icon.
+- Nama layanan.
+- Deskripsi singkat.
+- Detail kemampuan.
+- Hover effect.
+- CTA "Discuss This Service".
+
+Gunakan kartu yang tidak terlalu besar dan memiliki ruang kosong yang proporsional.
+
+## 5.5 TECHNOLOGY STACK
+
+Buat tampilan teknologi dengan gaya interactive orbit atau floating technology cards.
+
+Kelompokkan menjadi:
+
+**Web & Website**
+- WordPress.
+- HTML.
+- CSS.
+- JavaScript.
+
+**Business Applications**
+- Google Apps Script.
+- Google Sheets.
+- Web Applications.
+- Dashboard Systems.
+
+**AI & Innovation**
+- Google AI Studio.
+- Gemini AI.
+- Prompt Engineering.
+
+**Creative Development**
+- UI/UX Design.
+- Responsive Design.
+- Interactive Web Experience.
+
+Catatan:
+React, Three.js, dan teknologi lain yang masih dalam tahap eksplorasi tidak boleh ditampilkan sebagai keahlian profesional yang sudah dikuasai tanpa konfirmasi.
+
+Jangan menggunakan logo teknologi yang tidak sesuai atau tidak memiliki lisensi penggunaan yang jelas.
+
+## 5.6 SELECTED WORKS — PORTFOLIO PROJECTS
+
+Ini merupakan salah satu bagian paling penting.
+
+Buat gallery proyek seperti digital showcase kelas premium.
+
+Desain:
+- Large visual cards.
+- Preview screenshot.
+- Animated project thumbnail.
+- Category filter.
+- Project details.
+- Interactive hover.
+- View Project.
+- Case Study.
+
+Kategori filter:
+
+- All Projects.
+- Business Website.
+- E-Commerce.
+- Landing Page.
+- Business Applications.
+- Dashboard & Automation.
+- Experimental Projects.
+
+### Initial Project Data
+
+Gunakan proyek berikut sebagai materi awal yang perlu diverifikasi kembali sebelum dipublikasikan.
+
+**PROJECT 01 — AFIYAH TOUR**
+
+Kategori: Travel & Umrah Website.
+
+Deskripsi:
+Pengembangan website untuk bisnis travel dan layanan perjalanan umrah.
+
+Teknologi / Platform:
+WordPress dan WP Travel Engine.
+
+Sorotan:
+- Website bisnis travel.
+- Penyajian informasi perjalanan.
+- Tampilan layanan dan paket perjalanan.
+
+Status:
+Completed — hanya tampilkan sebagai proyek selesai apabila versi final dan izin publikasinya telah dikonfirmasi.
+
+**PROJECT 02 — KANG KAYU JOMBAA**
+
+Kategori: Business Website.
+
+Deskripsi:
+Pengembangan website bisnis untuk membantu memperkuat kehadiran digital dan identitas usaha.
+
+Status:
+Completed — verifikasi tautan, screenshot, dan izin publikasi sebelum ditampilkan.
+
+**PROJECT 03 — ASBABALSHEFAA**
+
+Kategori: E-Commerce Website.
+
+Deskripsi:
+Pengembangan website toko online dengan fitur katalog produk, pengelolaan pesanan, dan penyesuaian pengalaman belanja.
+
+Teknologi / Platform:
+WordPress dan WooCommerce.
+
+Status:
+In Progress / Pending Verification.
+
+Jangan menampilkan proyek ini sebagai proyek selesai sebelum benar-benar final dan memperoleh persetujuan pemiliknya.
+
+**PROJECT 04 — BUSINESS APPLICATION SYSTEM**
+
+Kategori: Business Application & Dashboard.
+
+Deskripsi:
+Eksplorasi pengembangan aplikasi bisnis berbasis Google Apps Script dan Google Sheets untuk pengelolaan data, administrasi, dan operasional.
+
+Status:
+Prototype / Experimental.
+
+Tampilkan hanya apabila tersedia demonstrasi yang dapat diakses.
+
+### Project Card Requirements
+
+Setiap proyek memiliki:
+
+- Project title.
+- Category.
+- Short description.
+- Project preview image.
+- Technology used.
+- Project status.
+- View Details.
+- Live Preview apabila tersedia.
+
+Saat diklik, tampilkan halaman detail atau modal yang berisi:
+
+1. Overview.
+2. Project background.
+3. Business challenge.
+4. Solution.
+5. Features.
+6. Technology.
+7. Screenshots.
+8. Live project link.
+
+Jangan membuat link proyek palsu.
+
+Apabila gambar belum tersedia, gunakan placeholder berlabel yang jelas dan mudah diganti.
+
+Jangan membuat statistik hasil proyek, jumlah pengunjung, peningkatan penjualan, atau testimoni tanpa data asli.
+
+## 5.7 EXPERIENCE & JOURNEY
+
+Judul:
+
+"My Journey in Digital & Education."
+
+Buat timeline vertikal interaktif.
+
+Masukkan perjalanan yang relevan:
+
+- Pengembangan dan pengelolaan Autosmart Digital Solutions.
+- Pengembangan website dan solusi digital untuk bisnis.
+- Eksplorasi aplikasi bisnis dan otomasi berbasis Google Apps Script.
+- Integrasi teknologi AI dalam alur kerja digital.
+- Keterlibatan dalam pembelajaran dan pengajaran keterampilan digital.
+
+Tambahkan bagian pendidikan dan pengalaman lainnya sebagai komponen yang dapat diedit.
+
+Jangan membuat tanggal pengalaman, nama institusi, maupun gelar yang belum diberikan.
+
+## 5.8 MY WORKFLOW — HOW I WORK
+
+Buat proses kerja dengan desain horizontal atau interactive step cards.
+
+Tahapan:
+
+01 — DISCOVER
+
+Memahami kebutuhan, masalah, target pengguna, dan tujuan proyek.
+
+02 — STRATEGIZE
+
+Menyusun konsep solusi, fitur, struktur sistem, dan arah desain.
+
+03 — DESIGN
+
+Membangun pengalaman visual dan rancangan antarmuka yang profesional.
+
+04 — DEVELOP
+
+Mengembangkan website, aplikasi, dashboard, dan sistem sesuai kebutuhan.
+
+05 — TEST & OPTIMIZE
+
+Memeriksa fungsionalitas, responsivitas, performa, dan pengalaman pengguna.
+
+06 — DELIVER
+
+Menyerahkan hasil dan membantu proses publikasi sesuai ruang lingkup proyek.
+
+Buat animasi progres ketika pengguna melakukan scroll.
+
+## 5.9 CONTACT — LET'S BUILD SOMETHING GREAT
+
+Judul:
+
+"Have a Project in Mind?"
+
+Deskripsi:
+
+"Setiap bisnis dan organisasi memiliki kebutuhan digital yang berbeda. Mari diskusikan bagaimana teknologi dapat membantu menghadirkan solusi yang tepat."
+
+Buat contact section dengan:
+- WhatsApp.
+- Email.
+- GitHub.
+- Instagram.
+- LinkedIn.
+- Contact form.
+
+Gunakan data kontak asli yang akan dimasukkan pemilik website.
+
+Sediakan placeholder:
+
+WHATSAPP_NUMBER = "GANTI_DENGAN_NOMOR_AKTIF"
+EMAIL_ADDRESS = "GANTI_DENGAN_EMAIL_AKTIF"
+GITHUB_URL = "GANTI_DENGAN_URL_GITHUB"
+INSTAGRAM_URL = "GANTI_DENGAN_URL_INSTAGRAM"
+LINKEDIN_URL = "GANTI_DENGAN_URL_LINKEDIN"
+
+Contact form:
+- Full name.
+- Email.
+- Subject.
+- Project category.
+- Message.
+- Send Message.
+
+Untuk versi tanpa backend, gunakan integrasi WhatsApp atau mailto yang benar-benar berfungsi.
+
+Jangan menampilkan pesan "pesan berhasil dikirim" jika belum ada sistem pengiriman yang benar-benar bekerja.
+
+## 5.10 FOOTER
+
+Desain footer minimalis dan elegan.
+
+Konten:
+
+ABU HAFSH MUHAMMAD
+
+Digital Solutions & Business Innovation.
+
+Founder of Autosmart Digital Solutions.
+
+"Building Digital Experiences That Matter."
+
+Tambahkan:
+- Navigation links.
+- Social media.
+- Copyright year otomatis.
+- Back to top.
+- Brand monogram.
+
+---
+
+# 6. ADVANCED INTERACTION & ANIMATION
+
+Website harus terasa hidup, tetapi tidak berlebihan.
+
+## 6.1 Intro Experience
+
+Saat pertama kali membuka website:
+
+- Tampilkan loading transition yang singkat.
+- Logo AH tampil dengan animasi elegan.
+- Background memiliki efek cahaya lembut.
+- Masuk ke Hero Section dengan smooth reveal.
+
+Jangan menggunakan loading screen yang memperlambat pengguna.
+
+## 6.2 3D Experience
+
+Gunakan Three.js atau React Three Fiber apabila sesuai dan didukung.
+
+Buat objek utama yang merepresentasikan digital universe:
+
+- Floating glass panels.
+- Abstract digital sphere.
+- Connected nodes.
+- Moving particles.
+- Dynamic lighting.
+- Depth effect.
+
+3D harus memiliki fallback apabila perangkat tidak mendukung WebGL.
+
+## 6.3 Scroll Animation
+
+Gunakan:
+- Fade in.
+- Slide reveal.
+- Staggered text.
+- Parallax movement.
+- Section transitions.
+- Scroll-based visual storytelling.
+
+## 6.4 Micro Interaction
+
+Tambahkan:
+- Magnetic CTA.
+- Smooth button animation.
+- Card tilt.
+- Interactive navigation indicator.
+- Hover glow.
+- Cursor interaction untuk perangkat desktop.
+
+Pada perangkat mobile, ganti interaksi hover dengan tap yang intuitif.
+
+## 6.5 Motion Accessibility
+
+Hormati pengaturan `prefers-reduced-motion`.
+
+Sediakan alternatif animasi yang lebih ringan.
+
+---
+
+# 7. USER EXPERIENCE & RESPONSIVE DESIGN
+
+Website wajib berfungsi optimal pada:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Smartphone Android.
+- Smartphone iOS.
+
+Prioritas:
+- Mobile-first.
+- Navigasi mudah.
+- Typography terbaca.
+- Tombol mudah ditekan.
+- Tidak ada horizontal overflow.
+- Gambar teroptimasi.
+- Layout konsisten.
+
+Pastikan Hero Section tetap terlihat menarik di layar smartphone.
+
+Menu desktop harus berubah menjadi mobile navigation dengan hamburger menu.
+
+---
+
+# 8. TECHNICAL REQUIREMENTS
+
+## 8.1 Recommended Technology
+
+Gunakan:
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS atau styling system yang terstruktur.
+- Framer Motion atau Motion untuk animasi.
+- Three.js / React Three Fiber untuk kebutuhan 3D.
+- Lucide Icons.
+
+Pilih dependency berdasarkan kebutuhan. Jangan menggunakan terlalu banyak library yang membuat website berat.
+
+## 8.2 Component Architecture
+
+Pisahkan komponen secara modular.
+
+Contoh struktur:
+
+src/
+- components/
+  - Navbar.tsx
+  - Hero.tsx
+  - About.tsx
+  - Expertise.tsx
+  - Services.tsx
+  - TechStack.tsx
+  - Projects.tsx
+  - ProjectModal.tsx
+  - Experience.tsx
+  - Workflow.tsx
+  - Contact.tsx
+  - Footer.tsx
+  - LoadingScreen.tsx
+- data/
+  - profile.ts
+  - projects.ts
+  - services.ts
+  - technologies.ts
+- assets/
+- hooks/
+- styles/
+- App.tsx
+- main.tsx
+
+Gunakan data terpusat agar pemilik website dapat mengganti deskripsi, gambar, link, dan informasi proyek dengan mudah.
+
+## 8.3 Performance
+
+Target:
+- Loading cepat.
+- Minimal layout shift.
+- Gambar menggunakan format WebP atau AVIF apabila memungkinkan.
+- Lazy loading untuk gambar di bawah viewport.
+- Lazy loading untuk elemen 3D.
+- Animasi menggunakan transform dan opacity bila memungkinkan.
+- Hindari proses rendering yang tidak diperlukan.
+- Hindari video background berukuran besar.
+- Pastikan website tetap dapat dinavigasi ketika efek 3D gagal dimuat.
+
+## 8.4 SEO
+
+Implementasikan:
+
+- Semantic HTML.
+- Meta title.
+- Meta description.
+- Open Graph.
+- Favicon AH.
+- Heading hierarchy.
+- Image alt text.
+- Canonical URL.
+- Sitemap.
+- robots.txt.
+- Structured data Person jika informasi sudah lengkap.
+
+Contoh meta title:
+
+Abu Hafsh Muhammad | Digital Solutions Developer & Founder Autosmart
+
+Contoh meta description:
+
+Personal portfolio Abu Hafsh Muhammad, Founder Autosmart Digital Solutions. Exploring website development, business applications, automation, and digital innovation.
+
+## 8.5 Deployment
+
+Deployment utama menggunakan Vercel.
+
+Pastikan:
+- Build berhasil.
+- Semua asset dapat diakses.
+- Tidak ada broken image.
+- Tidak ada console error kritis.
+- Semua route berfungsi.
+- Refresh halaman tidak menyebabkan error.
+- Environment variable tidak menyimpan rahasia di frontend.
+
+Apabila nantinya dipublikasikan melalui GitHub Pages, pastikan konfigurasi Vite menggunakan base path yang sesuai dengan repository dan semua asset menggunakan path yang benar.
+
+---
+
+# 9. WEBSITE CONTENT MANAGEMENT
+
+Tidak perlu membuat backend atau admin dashboard untuk versi awal.
+
+Gunakan file data terstruktur agar informasi mudah diperbarui.
+
+Buat konfigurasi utama seperti:
+
+- Profile information.
+- Profile photo.
+- Logo.
+- Social links.
+- Contact information.
+- Services.
+- Skills.
+- Project list.
+- Project images.
+- Project status.
+- Experience timeline.
+
+Tambahkan komentar yang jelas pada bagian data yang harus diganti pemilik website.
+
+Jangan menampilkan placeholder seperti nomor WhatsApp atau email contoh kepada pengunjung.
+
+Jika suatu informasi belum tersedia, lebih baik sembunyikan elemen terkait sampai data asli dimasukkan.
+
+---
+
+# 10. CONTENT & BRANDING RULES
+
+Semua konten harus mencerminkan identitas Abu Hafsh Muhammad.
+
+Prinsip komunikasi:
+
+- Profesional.
+- Percaya diri tetapi tidak berlebihan.
+- Modern.
+- Humanis.
+- Berorientasi pada solusi.
+- Mudah dipahami.
+- Tidak terlalu banyak jargon.
+
+Hindari klaim seperti:
+- Best Developer in Indonesia.
+- International Award Winner.
+- 100+ Successful Projects.
+- Millions of Users.
+- Certified Expert.
+
+Kecuali tersedia bukti yang benar.
+
+Bahasa Indonesia menjadi bahasa utama. Apabila dibuat fitur English, pastikan seluruh konten diterjemahkan dengan baik dan bukan sekadar mengganti judul.
+
+---
+
+# 11. SUCCESS CRITERIA
+
+Website dianggap berhasil apabila memenuhi persyaratan berikut:
+
+1. Identitas Abu Hafsh Muhammad terlihat jelas sejak Hero Section.
+2. Personal branding terasa profesional dan berbeda dari template portofolio biasa.
+3. Brand Autosmart Digital Solutions terintegrasi secara elegan.
+4. Seluruh bagian utama dapat diakses melalui navigasi.
+5. Animasi berjalan halus dan tidak mengganggu.
+6. Tampilan responsif di perangkat desktop dan mobile.
+7. Gallery proyek dapat difilter.
+8. Detail proyek dapat dibuka.
+9. Seluruh CTA memiliki fungsi yang benar.
+10. Informasi kontak menggunakan data asli.
+11. Tidak ada klaim atau testimoni fiktif.
+12. Website dapat di-build dan di-deploy ke Vercel.
+13. SEO dasar telah diterapkan.
+14. Performa tetap baik meskipun terdapat elemen visual 3D.
+15. Tidak ada broken links atau halaman kosong.
+
+---
+
+# 12. FINAL CREATIVE EXPECTATION
+
+Hasil akhir harus terlihat seperti website personal branding seorang digital creator dan business technology builder yang memiliki identitas kuat.
+
+Ketika seseorang membuka website ini, kesan pertama yang diharapkan adalah:
+
+"Ini bukan sekadar CV online. Ini merupakan sebuah pengalaman digital yang menunjukkan identitas, pemikiran, kemampuan, dan karya nyata seseorang."
+
+Website harus memiliki karakter visual yang kuat, tetapi tetap elegan dan mudah digunakan.
+
+Prioritaskan kualitas desain, kejelasan informasi, kecepatan, interaksi, dan profesionalitas.
+
+**THE FINAL EXPERIENCE:**
+
+ABU HAFSH MUHAMMAD  
+Digital Solutions Developer | Founder of Autosmart Digital Solutions
+
+"Turning Ideas Into Digital Experiences."
+
+**BUILD WITH PURPOSE. DESIGN WITH MEANING. CREATE WITH TECHNOLOGY.**
+
+---
+
+# 13. MASTER PROMPT FOR GOOGLE AI STUDIO
+
+Salin prompt berikut setelah memasukkan PRD ini ke Google AI Studio.
+
+---
+
+You are an elite Creative Director, Senior UI/UX Designer, Creative Developer, Three.js Specialist, and Senior React Engineer.
+
+Your mission is to transform the provided Product Requirements Document into a fully working, visually stunning, premium interactive personal portfolio website for Abu Hafsh Muhammad.
+
+REFERENCE WEBSITE:
+https://portofolioabuhafsh.vercel.app/
+
+PROJECT:
+ABU HAFSH MUHAMMAD — PERSONAL DIGITAL EXPERIENCE.
+
+IMPORTANT DESIGN DIRECTION:
+
+Do not create a generic portfolio template.
+
+Create a premium futuristic digital experience combining:
+- Awwwards-inspired web aesthetics.
+- Cinematic storytelling.
+- Elegant dark editorial design.
+- Interactive 3D visuals.
+- Premium glassmorphism.
+- Minimalist layouts.
+- Sophisticated motion design.
+- High-end personal branding.
+
+The website must feel carefully art-directed, original, and professionally designed.
+
+VISUAL IDENTITY:
+
+Use a sophisticated palette:
+- Deep Navy #0A1020.
+- Midnight Blue #111A2E.
+- Elegant Maroon #78263F.
+- Dark Burgundy #471728.
+- Champagne Gold #D5B47A.
+- Soft White #F4F4F5.
+
+Use Space Grotesk or Sora for headings and Inter for body text.
+
+HERO SECTION:
+
+Create a breathtaking hero section with:
+- Large cinematic headline.
+- Elegant typography.
+- Personal identity.
+- High-quality personal portrait placeholder.
+- Interactive 3D abstract digital object.
+- Floating glass interface cards.
+- Atmospheric lighting.
+- Subtle particles.
+- Animated background.
+- Magnetic CTA buttons.
+- Smooth scroll indicator.
+
+The 3D object should represent technology, creativity, business applications, and digital innovation.
+
+Make it original. Do not simply use a generic rotating sphere.
+
+ANIMATION QUALITY:
+
+Use refined and smooth animations.
+
+Implement:
+- Intro reveal.
+- Scroll-triggered transitions.
+- Staggered typography.
+- Interactive 3D movement.
+- Subtle parallax.
+- Glass card hover effects.
+- Magnetic buttons.
+- Project card tilt.
+- Navigation transitions.
+- Premium micro-interactions.
+
+Avoid excessive neon, distracting movement, and unnecessary animation.
+
+CONTENT:
+
+Follow the provided PRD carefully.
+
+Use the actual identity and professional information of Abu Hafsh Muhammad.
+
+Preserve factual information.
+
+Never invent client testimonials, awards, project statistics, certificates, or professional experiences.
+
+Make all incomplete information editable through centralized data files.
+
+PROJECT GALLERY:
+
+Build a visually impressive selected works section with category filtering and interactive project details.
+
+Each project must have a premium preview and clear project status.
+
+Use only available real project images or clearly labeled visual placeholders.
+
+RESPONSIVE DESIGN:
+
+The website must be fully responsive.
+
+Do not simply shrink the desktop layout.
+
+Create dedicated mobile compositions with readable typography, optimized 3D effects, functional navigation, and touch-friendly controls.
+
+TECHNICAL:
+
+Build using React, TypeScript, and Vite.
+
+Use modular reusable components.
+
+Use Three.js / React Three Fiber only where it adds meaningful value.
+
+Use Framer Motion or Motion for refined transitions.
+
+Ensure proper component organization, performance optimization, accessible interactions, SEO metadata, and working navigation.
+
+FUNCTIONALITY:
+
+All buttons must work.
+
+All navigation links must work.
+
+Project filters must work.
+
+Project detail views must work.
+
+Contact actions must work when the real contact configuration has been supplied.
+
+Do not use fake form submission behavior.
+
+FINAL OUTPUT:
+
+Generate the complete working application, not just a visual mockup or static screenshot.
+
+Implement the actual website.
+
+Do not stop after creating the hero section.
+
+Complete all sections described in the PRD.
+
+Ensure that the application runs in the Google AI Studio preview.
+
+After implementation, inspect the entire application and fix:
+- Runtime errors.
+- Broken assets.
+- TypeScript errors.
+- Layout issues.
+- Mobile responsiveness.
+- Navigation problems.
+- Animation performance problems.
+- Broken interactions.
+
+Do not leave unfinished sections or fake functionality.
+
+The final website must be production-ready in structure, visually premium, and ready for Vercel deployment after the owner supplies the real contact details, photos, project screenshots, and final links.
+
+**YOUR GOAL: CREATE A PERSONAL PORTFOLIO THAT FEELS LIKE A PREMIUM DIGITAL EXPERIENCE, NOT A STANDARD PORTFOLIO WEBSITE.**
